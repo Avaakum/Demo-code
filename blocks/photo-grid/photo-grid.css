@@ -1,0 +1,9 @@
+@import url('./__item/photo-grid__item.css');
+
+.photo-grid {
+  display: flex;
+  justify-content: space-between;
+  align-items: space-between;
+  flex-flow: row wrap;
+  max-width: 1184px;
+}

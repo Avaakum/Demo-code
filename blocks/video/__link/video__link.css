@@ -1,0 +1,10 @@
+.video__link {
+  color: white;
+  text-decoration: none;
+}
+
+.video__link:hover {
+  background-color: #000000;
+  border-radius: 5px;
+  opacity: 0.8;
+}

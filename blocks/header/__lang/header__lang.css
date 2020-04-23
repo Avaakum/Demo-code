@@ -1,0 +1,11 @@
+@import url('./_active/header__lang_active.css');
+
+.header__lang {
+  font-size: 22px;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+.header__lang:last-of-type {
+  margin-left: 18px;
+}
