@@ -9,3 +9,5 @@
 - .video (Блоки с видео)
 - .comments (Комментарии фотографов)
 - .footer (Подвал сайта)
+
+#### Хостинг для удобства проверки: http://www.nikitazhmaev.ru/demotest/
